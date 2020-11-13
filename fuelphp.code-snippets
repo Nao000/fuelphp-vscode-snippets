@@ -1,0 +1,90 @@
+{
+	"Agent::accepts_charset('iso-8859-1');": {
+		"scope": "php",
+		"prefix": "Agent::accepts_charset",
+		"body": [
+			"Agent::accepts_charset('iso-8859-1$1');"
+		],
+		"description": "Agent::accepts_charset('iso-8859-1$1');"
+	},
+	"Agent::accepts_language('nl_BE');": {
+		"scope": "php",
+		"prefix": "Agent::accepts_language",
+		"body": [
+			"Agent::accepts_language('nl_BE$1');"
+		],
+		"description": "Agent::accepts_language('nl_BE$1');"
+	},
+	"Agent::browser();": {
+		"scope": "php",
+		"prefix": "Agent::browser",
+		"body": [
+			"Agent::browser();"
+		],
+		"description": "Agent::browser();"
+	},
+	"Agent::platform();": {
+		"scope": "php",
+		"prefix": "Agent::platform",
+		"body": [
+			"Agent::platform();"
+		],
+		"description": "Agent::platform();"
+	},
+	"Agent::version();": {
+		"scope": "php",
+		"prefix": "Agent::version",
+		"body": [
+			"Agent::version();"
+		],
+		"description": "Agent::version();"
+	},
+	"Agent::charsets();": {
+		"scope": "php",
+		"prefix": "Agent::charsets",
+		"body": [
+			"Agent::charsets();"
+		],
+		"description": "Agent::charsets();"
+	},
+	"Agent::languages();": {
+		"scope": "php",
+		"prefix": "Agent::languages",
+		"body": [
+			"Agent::languages();"
+		],
+		"description": "Agent::languages();"
+	},
+	"Agent::properties();": {
+		"scope": "php",
+		"prefix": "Agent::properties",
+		"body": [
+			"Agent::properties();"
+		],
+		"description": "Agent::properties();"
+	},
+	"Agent::property($property = null);": {
+		"scope": "php",
+		"prefix": "Agent::property",
+		"body": [
+			"Agent::property($$property = null);"
+		],
+		"description": "Agent::property($property = null);"
+	},
+	"Agent::is_mobiledevice();": {
+		"scope": "php",
+		"prefix": "Agent::is_mobiledevice",
+		"body": [
+			"Agent::is_mobiledevice();"
+		],
+		"description": "Agent::is_mobiledevice();"
+	},
+	"Agent::is_robot();": {
+		"scope": "php",
+		"prefix": "Agent::is_robot",
+		"body": [
+			"Agent::is_robot();"
+		],
+		"description": "Agent::is_robot();"
+	}
+}
