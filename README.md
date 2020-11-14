@@ -1,8 +1,7 @@
 # fuelphp-vscode-snippets
 
-## how to use
+## example
 
-1. Install at project root `.vscode` directory.
-
-### example
 `project/.vscode/fuelphp.code-snippets`
+
+![example](./image/example.gif)
